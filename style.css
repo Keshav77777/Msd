@@ -1,0 +1,110 @@
+h1{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  margin-top: 5px;
+
+}
+h4{
+  text-align: center;
+  word-spacing: 3px;
+
+}
+.content{
+  width: 70%;
+  padding-left: 30px;
+  margin-left: 60px;
+  margin-top: 15px;
+}
+.First{
+
+}
+.Middle-one{
+  height: 500px;
+  background-image: url("images/background4.jpg");
+  background-size: contain;
+  background-origin: padding-box;
+}
+.First-img{
+  width: 100%;
+}
+.Middle-two{
+  margin-top: 50px;
+}
+
+img{
+  width:100%;
+  height:100%;
+  object-fit:contain;
+}
+
+
+
+
+.photo-div{
+  height: 300px;
+  transform: rotate(-30deg);
+}
+.photo-div2{
+  height: 300px;
+
+
+}
+.photo-div3{
+  height: 300px;
+  transform: rotate(30deg);
+}
+.photo-div4{
+  height: 300px;
+
+}
+.photo-div5{
+  height: 300px;
+ transform: rotate(40deg);
+}
+.photo-div6{
+  height: 300px;
+transform: rotate(30deg);
+}
+
+.image-main
+{
+  text-align: left;
+}
+
+.image-main2
+{
+  height: 90%;
+  text-align: left;
+
+}
+
+
+.image-main:hover{
+  transform: scale(1.05);
+}
+.image-main2:hover{
+  transform: scale(1.05);
+}
+
+
+
+/* about page */
+
+
+
+.timeline {
+  text-align: center;
+}
+
+.timeline-content {
+  background-color: #e6ffff;
+  width: 90%;
+ padding-top:50px;
+  display: inline-block;
+}
+
+ul {
+  display:inline-block;
+  text-align:left;
+
+}
